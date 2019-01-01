@@ -15,9 +15,6 @@ atan(x).series(x,0,6)
 
 ![](https://img-blog.csdnimg.cn/20190101004222176.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==,size_16,color_FFFFFF,t_70)
 
-$\lim\limits_{x \to 0} [\frac{cosx-1}{x-ln(1+x)}]$ = -1
-
-
 
 
 2. 求矩阵的逆
