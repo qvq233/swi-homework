@@ -28,7 +28,7 @@ $$
    -3 & 1 & 4 \\
    2 & -3 & 4
   \end{matrix}
-  \right] \tag{3}
+  \right] 
 $$
 
 ```
@@ -43,7 +43,7 @@ a.I
    10 & 4 & 1 \\
    3.5 & 1.5 & 0.5
   \end{matrix}
-  \right] \tag{3}
+  \right] 
 $$
 
 矩阵乘法
@@ -55,7 +55,7 @@ $$
    4 & 5 & 6 \\
    7 & 8 & 9
   \end{matrix}
-  \right] \tag{3}
+  \right] 
 $$
 
 $$
@@ -65,7 +65,7 @@ $$
    2 & 5 & 8 \\
    3 & 6 & 9
   \end{matrix}
-  \right] \tag{3}
+  \right] 
 $$
 
 ```
@@ -83,7 +83,7 @@ $$
    32 & 77 & 122 \\
    50 & 122 & 194
   \end{matrix}
-  \right] \tag{3}
+  \right] 
 $$
 
 ![](https://img-blog.csdnimg.cn/2019010112581492.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==,size_16,color_FFFFFF,t_70)
