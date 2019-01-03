@@ -119,6 +119,9 @@ void gameover(void)
 ## 会吃的蛇
 
 ```
+
+\\当蛇撞墙或蛇的长度达到最大时，结束
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -158,12 +161,13 @@ int snakeX[SNAKE_MAX_LENGTH]={1,2,3,4,5};
 int snakeY[SNAKE_MAX_LENGTH]={1,1,1,1,1};
 int snakeLength = 5;
 int isOver = 0;
+int fx,fy;
 
 int main()
 {
     char ch;
-    put_money();
-    output();
+    put_money();        \\放置食物
+    output();           \\打印地图
     while(!isOver)
     {
         scanf("%c", &ch);
@@ -187,7 +191,10 @@ int main()
 
 void snakeMove(int y,int x)
 {
-    if(map[snakeY[snakeLength-1]+y][snakeX[snakeLength-1]+x]==' ')
+    if(snakeLength>SNAKE_MAX_LENGTH)
+        isOver = 1;
+
+    else if(map[snakeY[snakeLength-1]+y][snakeX[snakeLength-1]+x]==' ')
     {
         map[snakeY[0]][snakeX[0]] = ' ';
         map[snakeY[snakeLength-1]][snakeX[snakeLength-1]] = 'X';
@@ -211,6 +218,7 @@ void snakeMove(int y,int x)
         snakeLength++;
         snakeX[snakeLength-1] = snakeX[snakeLength-2]+x;
         snakeY[snakeLength-1] = snakeY[snakeLength-2]+y;
+        put_money();
     }
     else
         isOver = 1;
@@ -241,13 +249,15 @@ void gameover(void)
 
 void put_money(void)
 {
-    int a,b;
     srand(time(NULL));
-    a = rand()%10 + 1;
-    b = rand()%10 + 1;
-    if(map[a][b]==' ')
-        map[a][b] = '$';
-    else
-        put_money();
+    fx = rand()%10 + 1;
+    fy = rand()%10 + 1;
+    while(map[fy][fx]!=' ')
+    {
+        fx = rand()%10 + 1;
+        fy = rand()%10 + 1;
+    }
+    map[fy][fx] = '$';
 }
+
 ```
