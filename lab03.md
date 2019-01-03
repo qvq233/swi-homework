@@ -5,7 +5,7 @@ title: 世界互联网大会
 
 # **世界互联网大会**
 
-![世界互联网大会](https://img-blog.csdn.net/20181013170043517?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![世界互联网大会](https://upload.wikimedia.org/wikipedia/en/7/70/WZWIC_logo.png)
 
 
 世界互联网大会是由中国国家互联网信息办公室、浙江省人民政府主办的活动，计划每年举办一次，其核心精神是推动网上主权概念的平台。活动地点定于浙江省嘉兴市桐乡市乌镇镇。
