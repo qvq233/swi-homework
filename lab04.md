@@ -4,7 +4,7 @@
 
 量子通讯是指利用量子效应加密并进行信息传输的一种通讯方式，涉及的领域包括量子密码通信、量子隐形传态和量子密集编码等
 
-![](https://img-blog.csdn.net/20181015003035483?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyNeQL1ANxMR8nfw3Bo_LC_qjzjhX85BU6apDwBAUxIQy0-qOMEg)
 
 ---
 
@@ -12,7 +12,7 @@
 
 量子密码学最著名且发展最完善的应用是量子密钥分发。量子密钥分发是利用量子通信的方式，让通信双方彼此拥有共同的密钥。在此方法中，既使窃听者可窃听通信双方之间所有通信，窃听者也无法学习到有关密钥的信息。一般来说，量子密钥分发只用来传递经典对称性加密所用的密钥。
 
-![](https://img-blog.csdn.net/20181015003119118?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1hrXpwsj44Fa72cxyzmmrcq1wU0dfx7nQlxPaFIK_EIfBmgXSQ)
 
 ## 量子隐形传态
 
@@ -22,7 +22,7 @@
 
 量子密集编码又叫量子稠密编码或量子超密编码，是由Bennett 和Wiesner 于1992年首次提出的。量子密集编码技术是利用量子纠缠的非局域性特性，实现了只用一个量子比特就传输两个比特信息的过程。和传统的通信方式比较，量子密集编码提高3了系统的编码效率，增加了量子信道的通信容量，被广泛用于已有量子通信系统中。
 
-![](https://img-blog.csdn.net/20181015003250243?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRybYNB3IDQePIdVB2kHpwKV638OswEgI6L0Cq9ACi2gzoQlJuz)
 
 
 

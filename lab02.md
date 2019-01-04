@@ -29,7 +29,7 @@
 ### Construct 2 小游戏展示
 
 
-![小游戏](https://img-blog.csdn.net/20181006214005483?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![小游戏](images\game.gif)
 
 
 **Thanks for reading!!!!!**

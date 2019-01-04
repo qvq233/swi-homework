@@ -34,7 +34,7 @@ IR寄存器的作用：存放当前正在执行的一条指令
 
 (3)
 
-![](https://img-blog.csdnimg.cn/20181125172058253.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==,size_16,color_FFFFFF,t_70)
+![](images\1.PNG)
 
 1. LOD #7指令二进制形式为00010100 00000111
     第四位表示寻址模式，1表示操作数是数值，其后的0100是操作码，最后面的00000111是7的二进制形式。
@@ -77,7 +77,7 @@ while (x>0){
 
 2. 机器语言
 
-![](https://img-blog.csdnimg.cn/20181125171850956.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==,size_16,color_FFFFFF,t_70)
+![](images\3.PNG)
 
 3. 高级语言与机器语言
 

@@ -19,7 +19,7 @@ C语言具有高效、灵活、功能丰富、表达力强和较高的可移植�
 
 打开DevC++，界面应该是这样的：
 
-![](https://img-blog.csdnimg.cn/20190101134449310.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==,size_16,color_FFFFFF,t_70)
+![](images\c1.png)
 
 在左上角可以新建一个空文件，然后输入下面的代码：
 
@@ -32,13 +32,13 @@ int main()
 }
 ```
 
-![](https://img-blog.csdnimg.cn/20190101134501218.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==,size_16,color_FFFFFF,t_70)
+![](images\c2.png)
 
 再点击编译和运行的按钮,就能得到下面的界面：
 
-![](https://img-blog.csdnimg.cn/20190101134510973.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==,size_16,color_FFFFFF,t_70)
+![](images\c3.png)
 
-![](https://img-blog.csdnimg.cn/2019010113452656.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==,size_16,color_FFFFFF,t_70)
+![](images\c4.png)
 
 这个小程序就编写好了，是不是很简单。
 

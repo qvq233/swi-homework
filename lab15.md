@@ -4,11 +4,11 @@
 
 ## sin-demo.c代码的编译运行
 
-![](https://img-blog.csdnimg.cn/20190103233721570.gif)
+![](images\sin-demo.gif)
 
 ## 实现kbhit()
 
-![](https://img-blog.csdnimg.cn/20190103233732164.gif)
+![](images\tty.gif)
 
 ## 编写智能算法
 
@@ -16,7 +16,10 @@
 
 为了加大难度，在地图设置了一些障碍物，当蛇撞到障碍物时，游戏结束。
 
-![](https://img-blog.csdnimg.cn/20190103235852566.gif)
+![](images\snake.gif)
+
+
+![](images\snake2.gif)
 
 
 代码如下

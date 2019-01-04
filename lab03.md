@@ -29,9 +29,9 @@ title: 世界互联网大会
 
 每年的大会上都会展示出最新最热的互联网相关的科技成果，如人工智能、超级计算、无人驾驶、量子通信等技术都曾在会场展示。来自世界各地的不计其数的行业精英领袖都会参加，分享交流技术，同时还会有领域的大咖举行访谈，马云、马化腾、维纳·措恩、罗伯特·卡恩等名人的身影都在这里显现。
 
-![马云](https://img-blog.csdn.net/20181013170840544?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![马云](images\ali.png)
 
-![马化腾](https://img-blog.csdn.net/20181013170930920?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzM0NzA5NQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![马化腾](images\tx.jpg)
 
 ---
 
